@@ -1,0 +1,1369 @@
+﻿Election,Precinct,TOTPOP,NH_WHITE,NH_BLACK,NH_ASIAN,HISP,num_black,num_white,num_asian,num_hispanic,num_undetermined,black_avail,white_avail,asian_avail,hisp_avail,black_thresh,white_thresh,asian_thresh,hispanic_thresh,How many surpass?
+MY14,811,0,0,0,0,0,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,0
+CC3,265,1763,163,151,137,1277,4,1,0,0,0,4,1,0,0,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,Surpasses,1
+CCL,265,1763,163,151,137,1277,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,Surpasses,1
+CCL,327,4218,234,518,572,2770,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,Surpasses,1
+CCL,335,4400,363,265,457,3230,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,Surpasses,1
+CCL,336,2560,329,322,208,1636,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,Surpasses,1
+MY14,265,1763,163,151,137,1277,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,Surpasses,1
+MY14,327,4218,234,518,572,2770,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,Surpasses,1
+MY14,335,4400,363,265,457,3230,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,Surpasses,1
+MY14,336,2560,329,322,208,1636,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,Surpasses,1
+MY14,843,1778,27,239,146,1334,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,Surpasses,1
+CC3,255,2061,114,75,1815,34,4,1,0,0,0,4,1,0,0,Doesn't Surpass,Doesn't Surpass,Surpasses,Doesn't Surpass,1
+CC5,284,1836,95,57,1616,23,0,1,0,3,1,0,1,0,3,Doesn't Surpass,Doesn't Surpass,Surpasses,Doesn't Surpass,1
+CCL,255,2061,114,75,1815,34,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Surpasses,Doesn't Surpass,1
+CCL,284,1836,95,57,1616,23,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Surpasses,Doesn't Surpass,1
+CCL,286,939,22,63,837,13,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Surpasses,Doesn't Surpass,1
+MY14,255,2061,114,75,1815,34,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Surpasses,Doesn't Surpass,1
+MY14,284,1836,95,57,1616,23,0,3,2,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Surpasses,Doesn't Surpass,1
+MY14,286,939,22,63,837,13,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Surpasses,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-1 P-01,1382,900,162,57,129,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-1 P-02,4218,3366,229,183,286,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-1 P-03,3380,2803,151,80,230,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-1 P-04,2990,2372,144,69,243,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-1 P-05,3144,2372,258,131,258,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-1 P-06,3508,2332,375,120,458,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-1 P-07,3318,2372,191,447,123,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-1 P-08,2179,1328,268,55,361,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-10 P-01,2898,2414,143,108,119,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-10 P-02,3252,2722,127,142,131,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-10 P-03A,2457,2190,54,92,72,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-10 P-04,2584,2136,115,98,114,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-10 P-05A,2128,1807,134,37,69,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-10 P-06,3063,2494,206,90,156,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-10 P-07,2807,1888,372,134,271,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-10 P-08,2199,1487,365,52,209,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-11 P-01,2267,1981,67,67,75,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-11 P-02,3177,2691,209,45,126,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-11 P-04,3608,2941,243,93,171,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-11 P-05,1898,1674,67,46,47,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-11 P-06,3176,2807,117,60,91,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-11 P-07,3315,2657,223,104,208,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-11 P-08,3045,2421,193,63,215,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-11 P-10,2488,1940,224,53,188,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-12 P-01,3663,2514,381,101,398,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-12 P-02,2945,2368,187,58,155,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-12 P-03,3357,2761,183,86,181,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-12 P-04,1705,1385,99,38,101,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-12 P-05,2225,1817,118,51,150,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-12 P-06,1912,1626,91,41,73,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-12 P-07,399,367,23,1,1,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-12 P-09,2461,1761,164,71,308,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-12 P-10,2830,2111,207,56,297,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-13 P-01,4132,3508,211,160,132,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-13 P-02,1651,1482,18,52,50,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-13 P-03,2308,2044,56,71,69,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-13 P-04,2491,2222,72,51,69,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-13 P-05,2120,1928,43,60,54,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-13 P-06,2787,2540,44,63,61,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-13 P-07,3668,3279,123,97,95,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-13 P-08,2970,2500,178,110,86,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-13 P-09,3700,3046,260,114,156,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-2 P-01,2399,1421,324,52,377,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-2 P-02,1988,1614,139,53,93,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-2 P-03,3171,2313,436,205,85,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-2 P-04,2507,1950,110,294,69,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-2 P-05,4260,2782,608,620,110,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-2 P-06,1558,1297,63,109,34,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-2 P-07,1549,1114,151,144,65,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-2 P-08,3503,2942,114,113,185,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-2 P-09,1972,1453,204,176,55,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-2 P-10,4522,3537,73,685,90,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-3 P-01,4429,3385,128,695,101,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-3 P-02,3208,2337,129,401,240,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-3 P-03,3635,2789,266,293,142,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-3 P-04,1400,974,208,41,99,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-3 P-05,2243,1784,143,84,146,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-3 P-07,1856,1591,70,100,48,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-3 P-09,1818,1327,253,92,62,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-7 P-01C,1344,1194,41,49,24,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-7 P-02D,2024,1840,24,47,62,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-7 P-03,3150,2794,96,96,84,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-7 P-04D,3076,2716,59,136,88,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-7 P-05,2890,2220,296,141,137,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-7 P-07,1941,1729,35,52,66,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-7 P-08,4983,3638,557,352,255,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-7 P-09,3169,2812,58,110,95,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-7 P-10,1108,820,140,49,58,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-8 P-06,3486,2428,324,80,488,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-8 P-07,3987,3218,317,75,191,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-8 P-08,4132,2565,628,144,494,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-9 P-07,1942,1116,305,41,323,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-1 P-01,1382,900,162,57,129,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-1 P-02,4218,3366,229,183,286,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-1 P-03,3380,2803,151,80,230,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-1 P-04,2990,2372,144,69,243,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-1 P-05,3144,2372,258,131,258,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-1 P-06,3508,2332,375,120,458,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-1 P-07,3318,2372,191,447,123,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-1 P-08,2179,1328,268,55,361,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-10 P-01,2898,2414,143,108,119,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-10 P-02,3252,2722,127,142,131,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-10 P-03A,2457,2190,54,92,72,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-10 P-04,2584,2136,115,98,114,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-10 P-05A,2128,1807,134,37,69,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-10 P-06,3063,2494,206,90,156,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-10 P-07,2807,1888,372,134,271,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-10 P-08,2199,1487,365,52,209,2,3,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-11 P-01,2267,1981,67,67,75,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-11 P-02,3177,2691,209,45,126,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-11 P-04,3608,2941,243,93,171,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-11 P-05,1898,1674,67,46,47,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-11 P-06,3176,2807,117,60,91,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-11 P-07,3315,2657,223,104,208,0,5,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-11 P-08,3045,2421,193,63,215,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-11 P-10,2488,1940,224,53,188,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-12 P-01,3663,2514,381,101,398,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-12 P-02,2945,2368,187,58,155,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-12 P-03,3357,2761,183,86,181,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-12 P-04,1705,1385,99,38,101,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-12 P-05,2225,1817,118,51,150,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-12 P-06,1912,1626,91,41,73,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-12 P-07,399,367,23,1,1,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-12 P-09,2461,1761,164,71,308,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-12 P-10,2830,2111,207,56,297,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-13 P-01,4132,3508,211,160,132,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-13 P-02,1651,1482,18,52,50,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-13 P-03,2308,2044,56,71,69,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-13 P-04,2491,2222,72,51,69,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-13 P-05,2120,1928,43,60,54,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-13 P-06,2787,2540,44,63,61,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-13 P-07,3668,3279,123,97,95,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-13 P-08,2970,2500,178,110,86,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-13 P-09,3700,3046,260,114,156,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-2 P-01,2399,1421,324,52,377,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-2 P-02,1988,1614,139,53,93,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-2 P-03,3171,2313,436,205,85,2,3,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-2 P-04,2507,1950,110,294,69,3,2,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-2 P-05,4260,2782,608,620,110,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-2 P-06,1558,1297,63,109,34,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-2 P-07,1549,1114,151,144,65,2,3,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-2 P-08,3503,2942,114,113,185,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-2 P-09,1972,1453,204,176,55,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-2 P-10,4522,3537,73,685,90,2,3,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-3 P-01,4429,3385,128,695,101,2,3,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-3 P-02,3208,2337,129,401,240,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-3 P-03,3635,2789,266,293,142,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-3 P-04,1400,974,208,41,99,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-3 P-05,2243,1784,143,84,146,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-3 P-07,1856,1591,70,100,48,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-3 P-09,1818,1327,253,92,62,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-7 P-01C,1344,1194,41,49,24,2,3,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-7 P-02D,2024,1840,24,47,62,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-7 P-03,3150,2794,96,96,84,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-7 P-04D,3076,2716,59,136,88,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-7 P-05,2890,2220,296,141,137,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-7 P-07,1941,1729,35,52,66,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-7 P-08,4983,3638,557,352,255,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-7 P-09,3169,2812,58,110,95,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-7 P-10,1108,820,140,49,58,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-8 P-06,3486,2428,324,80,488,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-8 P-07,3987,3218,317,75,191,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-8 P-08,4132,2565,628,144,494,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-9 P-07,1942,1116,305,41,323,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-ward-9-cvr,MINNEAPOLIS W-9 P-07,1942,1116,305,41,323,1,3,0,1,0,1,4,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-1 P-01,1382,900,162,57,129,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-1 P-02,4218,3366,229,183,286,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-1 P-03,3380,2803,151,80,230,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-1 P-04,2990,2372,144,69,243,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-1 P-05,3144,2372,258,131,258,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-1 P-06,3508,2332,375,120,458,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-1 P-07,3318,2372,191,447,123,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-1 P-08,2179,1328,268,55,361,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-1 P-10,1491,1134,132,50,87,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-10 P-01,2898,2414,143,108,119,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-10 P-02,3252,2722,127,142,131,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-10 P-03A,2457,2190,54,92,72,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-10 P-04,2584,2136,115,98,114,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-10 P-05A,2128,1807,134,37,69,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-10 P-06,3063,2494,206,90,156,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-10 P-07,2807,1888,372,134,271,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-10 P-08,2199,1487,365,52,209,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-11 P-01,2267,1981,67,67,75,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-11 P-02,3177,2691,209,45,126,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-11 P-04,3608,2941,243,93,171,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-11 P-05,1898,1674,67,46,47,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-11 P-06,3176,2807,117,60,91,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-11 P-07,3315,2657,223,104,208,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-11 P-08,3045,2421,193,63,215,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-11 P-10,2488,1940,224,53,188,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-12 P-01,3663,2514,381,101,398,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-12 P-02,2945,2368,187,58,155,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-12 P-03,3357,2761,183,86,181,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-12 P-04,1705,1385,99,38,101,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-12 P-05,2225,1817,118,51,150,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-12 P-06,1912,1626,91,41,73,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-12 P-07,399,367,23,1,1,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-12 P-09,2461,1761,164,71,308,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-12 P-10,2830,2111,207,56,297,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-12 P-11,2201,1689,178,58,170,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-12 P-12,3581,2747,226,72,297,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-12 P-13,1479,1299,36,25,59,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-13 P-01,4132,3508,211,160,132,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-13 P-02,1651,1482,18,52,50,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-13 P-03,2308,2044,56,71,69,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-13 P-04,2491,2222,72,51,69,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-13 P-05,2120,1928,43,60,54,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-13 P-06,2787,2540,44,63,61,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-13 P-07,3668,3279,123,97,95,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-13 P-08,2970,2500,178,110,86,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-13 P-09,3700,3046,260,114,156,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-13 P-10,1476,1310,37,43,23,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-13 P-11,2456,2195,52,70,76,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-13 P-12,1535,1396,25,35,51,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-13 P-13,2202,2006,33,61,43,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-2 P-01,2399,1421,324,52,377,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-2 P-02,1988,1614,139,53,93,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-2 P-03,3171,2313,436,205,85,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-2 P-04,2507,1950,110,294,69,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-2 P-05,4260,2782,608,620,110,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-2 P-06,1558,1297,63,109,34,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-2 P-07,1549,1114,151,144,65,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-2 P-08,3503,2942,114,113,185,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-2 P-09,1972,1453,204,176,55,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-2 P-10,4522,3537,73,685,90,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-2 P-11,1955,1484,150,24,165,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-3 P-01,4429,3385,128,695,101,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-3 P-02,3208,2337,129,401,240,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-3 P-03,3635,2789,266,293,142,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-3 P-04,1400,974,208,41,99,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-3 P-05,2243,1784,143,84,146,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-3 P-07,1856,1591,70,100,48,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-3 P-09,1818,1327,253,92,62,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-3 P-11,1180,1039,54,36,34,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-7 P-01C,1344,1194,41,49,24,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-7 P-02D,2024,1840,24,47,62,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-7 P-03,3150,2794,96,96,84,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-7 P-04D,3076,2716,59,136,88,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-7 P-05,2890,2220,296,141,137,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-7 P-07,1941,1729,35,52,66,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-7 P-08,4983,3638,557,352,255,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-7 P-09,3169,2812,58,110,95,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-7 P-10,1108,820,140,49,58,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-8 P-06,3486,2428,324,80,488,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-8 P-07,3987,3218,317,75,191,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-8 P-08,4132,2565,628,144,494,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-9 P-07,1942,1116,305,41,323,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-1 P-01,1382,900,162,57,129,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-1 P-02,4218,3366,229,183,286,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-1 P-03,3380,2803,151,80,230,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-1 P-04,2990,2372,144,69,243,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-1 P-05,3144,2372,258,131,258,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-1 P-06,3508,2332,375,120,458,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-1 P-07,3318,2372,191,447,123,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-1 P-08,2179,1328,268,55,361,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-1 P-10,1491,1134,132,50,87,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-10 P-01,2898,2414,143,108,119,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-10 P-02,3252,2722,127,142,131,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-10 P-03A,2457,2190,54,92,72,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-10 P-04,2584,2136,115,98,114,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-10 P-05A,2128,1807,134,37,69,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-10 P-06,3063,2494,206,90,156,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-10 P-07,2807,1888,372,134,271,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-10 P-08,2199,1487,365,52,209,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-11 P-01,2267,1981,67,67,75,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-11 P-02,3177,2691,209,45,126,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-11 P-04,3608,2941,243,93,171,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-11 P-05,1898,1674,67,46,47,1,4,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-11 P-06,3176,2807,117,60,91,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-11 P-07,3315,2657,223,104,208,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-11 P-08,3045,2421,193,63,215,1,4,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-11 P-10,2488,1940,224,53,188,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-12 P-01,3663,2514,381,101,398,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-12 P-02,2945,2368,187,58,155,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-12 P-03,3357,2761,183,86,181,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-12 P-04,1705,1385,99,38,101,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-12 P-05,2225,1817,118,51,150,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-12 P-06,1912,1626,91,41,73,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-12 P-07,399,367,23,1,1,1,4,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-12 P-09,2461,1761,164,71,308,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-12 P-10,2830,2111,207,56,297,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-12 P-11,2201,1689,178,58,170,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-12 P-12,3581,2747,226,72,297,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-12 P-13,1479,1299,36,25,59,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-13 P-01,4132,3508,211,160,132,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-13 P-02,1651,1482,18,52,50,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-13 P-03,2308,2044,56,71,69,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-13 P-04,2491,2222,72,51,69,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-13 P-05,2120,1928,43,60,54,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-13 P-06,2787,2540,44,63,61,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-13 P-07,3668,3279,123,97,95,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-13 P-08,2970,2500,178,110,86,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-13 P-09,3700,3046,260,114,156,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-13 P-10,1476,1310,37,43,23,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-13 P-11,2456,2195,52,70,76,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-13 P-12,1535,1396,25,35,51,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-13 P-13,2202,2006,33,61,43,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-2 P-01,2399,1421,324,52,377,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-2 P-02,1988,1614,139,53,93,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-2 P-03,3171,2313,436,205,85,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-2 P-04,2507,1950,110,294,69,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-2 P-05,4260,2782,608,620,110,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-2 P-06,1558,1297,63,109,34,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-2 P-07,1549,1114,151,144,65,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-2 P-08,3503,2942,114,113,185,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-2 P-09,1972,1453,204,176,55,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-2 P-10,4522,3537,73,685,90,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-2 P-11,1955,1484,150,24,165,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-3 P-01,4429,3385,128,695,101,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-3 P-02,3208,2337,129,401,240,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-3 P-03,3635,2789,266,293,142,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-3 P-04,1400,974,208,41,99,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-3 P-05,2243,1784,143,84,146,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-3 P-07,1856,1591,70,100,48,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-3 P-09,1818,1327,253,92,62,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-3 P-11,1180,1039,54,36,34,1,4,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-7 P-01C,1344,1194,41,49,24,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-7 P-02D,2024,1840,24,47,62,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-7 P-03,3150,2794,96,96,84,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-7 P-04D,3076,2716,59,136,88,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-7 P-05,2890,2220,296,141,137,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-7 P-07,1941,1729,35,52,66,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-7 P-08,4983,3638,557,352,255,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-7 P-09,3169,2812,58,110,95,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-7 P-10,1108,820,140,49,58,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-8 P-06,3486,2428,324,80,488,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-8 P-07,3987,3218,317,75,191,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-8 P-08,4132,2565,628,144,494,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-9 P-07,1942,1116,305,41,323,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CC3,120,1763,1026,283,138,203,3,1,0,0,1,4,1,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CC3,249,1060,625,153,135,84,4,1,0,0,0,4,1,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CC3,807,590,393,33,86,45,3,1,0,0,1,4,1,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CC3,816,246,183,10,20,18,4,1,0,0,0,4,1,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CC3,818,328,217,28,40,12,4,1,0,0,0,4,1,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CC5,127,1444,994,61,171,137,0,1,0,3,1,0,1,0,3,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CC5,128,469,362,36,44,16,0,1,0,3,1,0,1,0,3,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CC5,129,1357,959,113,121,80,0,1,0,3,1,0,1,0,3,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CC5,130,1631,1132,102,207,105,0,1,0,3,1,0,1,0,3,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,100,1310,977,34,170,55,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,102,812,568,42,94,62,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,104,1209,896,39,129,71,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,105,863,652,20,77,63,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,106,1597,1193,81,179,69,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,107,783,602,29,73,45,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,108,1103,744,61,152,73,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,109,1302,996,43,129,69,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,110,928,663,39,135,38,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,111,832,616,38,92,50,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,112,745,575,21,61,50,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,113,1365,1061,28,102,111,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,114,1461,1042,57,138,133,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,115,1428,895,210,107,113,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,116,1430,1064,58,110,111,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,118,1340,981,65,119,87,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,119,891,645,45,94,69,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,120,1763,1026,283,138,203,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,124,781,492,55,105,81,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,125,1221,781,113,169,91,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,126,1869,1259,133,213,158,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,127,1444,994,61,171,137,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,128,469,362,36,44,16,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,129,1357,959,113,121,80,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,130,1631,1132,102,207,105,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,133,1080,729,56,147,91,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,137,885,539,144,64,83,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,141,1234,702,197,153,102,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,142,888,559,77,115,88,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,143,799,451,97,121,81,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,144,911,625,83,105,58,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,145,1722,1097,150,228,142,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,146,910,684,65,85,43,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,148,1088,716,141,110,60,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,149,984,629,114,123,59,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,150,1084,740,115,99,57,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,151,1441,1057,95,115,81,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,152,1104,822,66,84,66,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,153,1504,1030,103,195,90,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,154,1158,797,49,155,81,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,155,955,726,37,91,55,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,156,869,647,41,81,44,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,157,957,691,48,109,65,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,158,1065,840,70,62,47,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,159,704,461,61,90,52,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,224,1309,953,116,117,55,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,225,643,440,40,67,62,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,226,1677,1211,72,195,97,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,249,1060,625,153,135,84,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,292,1496,920,140,232,121,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,295,425,284,41,47,37,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,296,857,506,84,127,78,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,304,1240,709,111,199,111,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,305,815,526,56,125,70,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,807,590,393,33,86,45,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,812,253,151,38,23,33,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,816,246,183,10,20,18,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,818,328,217,28,40,12,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,823,113,69,12,18,7,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+CCL,832,72,46,5,8,11,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,101,2225,1541,119,243,184,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,102,2513,1844,109,202,241,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,103,3540,2070,396,327,426,1,4,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,301,3591,2238,324,220,475,1,4,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,302,3308,2043,430,216,330,1,4,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,402,3419,2263,358,423,220,2,3,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,501,2481,1453,398,282,218,2,3,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,503,2130,1527,215,142,144,1,4,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,601,3095,2372,227,226,135,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,602,3262,2367,114,478,158,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,603,3231,2723,90,246,94,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,701,3255,2700,104,237,137,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,702,3298,2292,154,501,238,1,4,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,703,3137,2053,190,508,257,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,801,3233,2322,127,482,189,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,802,2315,1844,88,212,116,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,901,3308,2985,69,115,91,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,902,2890,2361,179,156,104,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,903,3147,2341,313,211,160,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,1001,3201,2550,215,210,120,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,1002,3299,2771,74,278,88,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,1102,3446,2755,218,215,120,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E03,1103,2443,1831,217,215,71,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,101,2225,1541,119,243,184,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,102,2513,1844,109,202,241,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,103,3540,2070,396,327,426,1,4,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,301,3591,2238,324,220,475,1,4,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,302,3308,2043,430,216,330,1,4,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,402,3419,2263,358,423,220,2,3,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,501,2481,1453,398,282,218,2,3,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,503,2130,1527,215,142,144,1,4,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,601,3095,2372,227,226,135,1,4,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,602,3262,2367,114,478,158,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,603,3231,2723,90,246,94,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,701,3255,2700,104,237,137,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,702,3298,2292,154,501,238,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,703,3137,2053,190,508,257,2,3,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,801,3233,2322,127,482,189,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,802,2315,1844,88,212,116,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,901,3308,2985,69,115,91,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,902,2890,2361,179,156,104,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,903,3147,2341,313,211,160,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,1001,3201,2550,215,210,120,1,4,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,1002,3299,2771,74,278,88,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,1102,3446,2755,218,215,120,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E05,1103,2443,1831,217,215,71,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,101,2225,1541,119,243,184,0,5,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,102,2513,1844,109,202,241,0,5,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,103,3540,2070,396,327,426,1,4,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,301,3591,2238,324,220,475,1,4,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,302,3308,2043,430,216,330,2,3,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,402,3419,2263,358,423,220,2,3,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,501,2481,1453,398,282,218,3,2,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,503,2130,1527,215,142,144,2,3,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,601,3095,2372,227,226,135,1,4,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,602,3262,2367,114,478,158,1,4,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,603,3231,2723,90,246,94,0,5,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,701,3255,2700,104,237,137,0,5,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,702,3298,2292,154,501,238,0,5,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,703,3137,2053,190,508,257,2,3,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,801,3233,2322,127,482,189,0,5,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,802,2315,1844,88,212,116,0,5,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,901,3308,2985,69,115,91,0,5,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,902,2890,2361,179,156,104,0,5,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,903,3147,2341,313,211,160,0,5,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,1001,3201,2550,215,210,120,0,5,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,1002,3299,2771,74,278,88,0,5,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,1102,3446,2755,218,215,120,1,4,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E07,1103,2443,1831,217,215,71,0,5,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,101,2225,1541,119,243,184,0,4,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,102,2513,1844,109,202,241,1,3,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,103,3540,2070,396,327,426,2,2,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,301,3591,2238,324,220,475,0,3,1,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,302,3308,2043,430,216,330,1,2,1,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,402,3419,2263,358,423,220,1,3,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,501,2481,1453,398,282,218,2,1,1,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,503,2130,1527,215,142,144,1,3,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,601,3095,2372,227,226,135,0,4,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,602,3262,2367,114,478,158,1,2,1,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,603,3231,2723,90,246,94,0,4,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,701,3255,2700,104,237,137,1,3,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,702,3298,2292,154,501,238,1,3,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,703,3137,2053,190,508,257,1,2,1,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,801,3233,2322,127,482,189,0,3,1,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,802,2315,1844,88,212,116,1,3,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,901,3308,2985,69,115,91,1,3,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,902,2890,2361,179,156,104,1,3,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,903,3147,2341,313,211,160,1,3,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,1001,3201,2550,215,210,120,1,2,0,0,2,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,1002,3299,2771,74,278,88,0,3,0,0,2,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,1102,3446,2755,218,215,120,1,3,0,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E09,1103,2443,1831,217,215,71,1,2,0,0,2,4,15,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,101,2225,1541,119,243,184,1,3,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,102,2513,1844,109,202,241,1,3,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,103,3540,2070,396,327,426,1,3,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,301,3591,2238,324,220,475,1,3,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,302,3308,2043,430,216,330,2,2,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,402,3419,2263,358,423,220,1,3,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,501,2481,1453,398,282,218,2,2,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,503,2130,1527,215,142,144,1,3,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,601,3095,2372,227,226,135,1,3,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,602,3262,2367,114,478,158,1,3,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,603,3231,2723,90,246,94,0,4,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,701,3255,2700,104,237,137,0,4,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,702,3298,2292,154,501,238,0,4,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,703,3137,2053,190,508,257,2,2,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,801,3233,2322,127,482,189,0,4,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,802,2315,1844,88,212,116,0,4,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,901,3308,2985,69,115,91,0,4,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,902,2890,2361,179,156,104,1,3,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,903,3147,2341,313,211,160,1,3,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,1001,3201,2550,215,210,120,0,4,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,1002,3299,2771,74,278,88,0,4,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,1102,3446,2755,218,215,120,2,2,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E11,1103,2443,1831,217,215,71,1,3,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,102,3208,2038,221,521,314,1,3,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,103,3287,1929,462,406,333,1,2,1,1,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,301,3193,2016,334,312,357,1,2,1,1,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,302,1770,1175,212,182,140,1,3,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,303,1853,1188,196,140,224,2,1,1,1,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,402,3237,2186,253,456,231,1,2,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,501,3189,1913,414,423,284,1,1,2,1,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,601,3546,2574,226,403,224,0,3,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,602,3305,2334,129,537,195,1,2,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,603,3634,2835,132,386,181,0,4,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,701,3481,2632,158,380,190,0,4,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,801,3183,2248,110,518,191,0,4,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,802,3164,2294,146,420,187,1,3,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,901,3314,2908,58,140,113,0,4,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,902,3737,2877,195,334,192,1,2,1,1,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,903,3654,2475,443,324,257,1,3,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,1001,3488,2710,187,314,143,0,4,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,1002,3111,2579,95,240,130,0,4,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,1102,3534,2675,246,285,181,0,3,1,1,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E13,1103,4039,2695,398,540,263,1,3,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,102,3208,2038,221,521,314,0,3,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,103,3287,1929,462,406,333,1,3,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,301,3193,2016,334,312,357,1,2,1,1,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,302,1770,1175,212,182,140,1,1,2,1,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,303,1853,1188,196,140,224,1,2,1,1,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,402,3237,2186,253,456,231,1,2,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,501,3189,1913,414,423,284,1,2,1,1,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,601,3546,2574,226,403,224,1,2,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,602,3305,2334,129,537,195,1,1,3,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,603,3634,2835,132,386,181,0,3,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,701,3481,2632,158,380,190,0,4,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,801,3183,2248,110,518,191,0,3,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,802,3164,2294,146,420,187,1,3,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,901,3314,2908,58,140,113,0,4,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,902,3737,2877,195,334,192,0,3,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,903,3654,2475,443,324,257,1,3,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,1001,3488,2710,187,314,143,1,2,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,1002,3111,2579,95,240,130,0,4,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,1102,3534,2675,246,285,181,1,2,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E15,1103,4039,2695,398,540,263,1,3,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,102,3208,2038,221,521,314,1,3,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,103,3287,1929,462,406,333,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,301,3193,2016,334,312,357,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,302,1770,1175,212,182,140,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,303,1853,1188,196,140,224,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,402,3237,2186,253,456,231,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,501,3189,1913,414,423,284,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,601,3546,2574,226,403,224,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,602,3305,2334,129,537,195,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,603,3634,2835,132,386,181,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,701,3481,2632,158,380,190,1,3,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,801,3183,2248,110,518,191,1,3,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,802,3164,2294,146,420,187,1,3,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,901,3314,2908,58,140,113,0,4,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,902,3737,2877,195,334,192,0,4,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,903,3654,2475,443,324,257,1,3,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,1001,3488,2710,187,314,143,1,3,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,1002,3111,2579,95,240,130,0,4,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,1102,3534,2675,246,285,181,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+E17,1103,4039,2695,398,540,263,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,100,1310,977,34,170,55,0,5,0,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,102,812,568,42,94,62,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,104,1209,896,39,129,71,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,105,863,652,20,77,63,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,106,1597,1193,81,179,69,1,4,0,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,107,783,602,29,73,45,1,4,0,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,108,1103,744,61,152,73,1,4,0,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,109,1302,996,43,129,69,1,4,0,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,110,928,663,39,135,38,1,4,0,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,111,832,616,38,92,50,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,112,745,575,21,61,50,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,113,1365,1061,28,102,111,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,114,1461,1042,57,138,133,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,115,1428,895,210,107,113,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,116,1430,1064,58,110,111,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,118,1340,981,65,119,87,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,119,891,645,45,94,69,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,120,1763,1026,283,138,203,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,124,781,492,55,105,81,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,125,1221,781,113,169,91,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,126,1869,1259,133,213,158,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,127,1444,994,61,171,137,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,128,469,362,36,44,16,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,129,1357,959,113,121,80,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,130,1631,1132,102,207,105,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,133,1080,729,56,147,91,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,137,885,539,144,64,83,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,141,1234,702,197,153,102,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,142,888,559,77,115,88,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,143,799,451,97,121,81,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,144,911,625,83,105,58,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,145,1722,1097,150,228,142,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,146,910,684,65,85,43,1,4,0,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,148,1088,716,141,110,60,1,4,0,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,149,984,629,114,123,59,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,150,1084,740,115,99,57,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,151,1441,1057,95,115,81,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,152,1104,822,66,84,66,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,153,1504,1030,103,195,90,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,154,1158,797,49,155,81,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,155,955,726,37,91,55,0,5,0,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,156,869,647,41,81,44,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,157,957,691,48,109,65,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,158,1065,840,70,62,47,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,159,704,461,61,90,52,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,160,1309,953,116,117,55,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,161,643,440,40,67,62,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,162,1677,1211,72,195,97,1,4,0,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,249,1060,625,153,135,84,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,292,1496,920,140,232,121,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,295,425,284,41,47,37,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,296,857,506,84,127,78,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,304,1240,709,111,199,111,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,305,815,526,56,125,70,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,807,590,393,33,86,45,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,810,337,256,22,21,25,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,812,253,151,38,23,33,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,815,378,208,48,53,40,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,816,246,183,10,20,18,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,818,328,217,28,40,12,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,823,113,69,12,18,7,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,831,38,24,4,4,4,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+MY14,832,72,46,5,8,11,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Doesn't Surpass,1
+2013-mayor-cvr,MINNEAPOLIS W-5 P-07,4160,279,2596,530,528,1,3,0,0,1,4,27,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+2013-park-at-large-cvr,MINNEAPOLIS W-5 P-07,4160,279,2596,530,528,3,2,0,0,0,3,7,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+2013-ward-5-cvr,MINNEAPOLIS W-5 P-07,4160,279,2596,530,528,2,1,1,0,1,2,1,1,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+2017-mayor-cvr,MINNEAPOLIS W-5 P-07,4160,279,2596,530,528,1,4,0,0,0,2,12,1,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+2017-park-at-large-cvr,MINNEAPOLIS W-5 P-07,4160,279,2596,530,528,2,3,0,0,0,2,8,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+2017-ward-5-cvr,MINNEAPOLIS W-5 P-07,4160,279,2596,530,528,3,0,1,0,1,3,0,1,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CC3,268,1061,161,589,105,148,4,1,0,0,0,4,1,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CC3,275,1174,169,714,105,110,4,1,0,0,0,4,1,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CC5,828,821,119,432,93,131,0,1,0,3,1,0,1,0,3,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CCL,268,1061,161,589,105,148,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CCL,275,1174,169,714,105,110,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CCL,279,1679,184,937,229,246,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CCL,281,2355,297,1365,325,220,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CCL,369,902,84,578,36,136,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CCL,381,735,94,541,34,48,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CCL,383,1742,242,1161,56,219,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CCL,384,2199,263,1377,124,311,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CCL,808,386,36,278,16,36,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CCL,827,403,59,254,20,55,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CCL,828,821,119,432,93,131,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+MY14,268,1061,161,589,105,148,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+MY14,275,1174,169,714,105,110,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+MY14,279,1679,184,937,229,246,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+MY14,281,2355,297,1365,325,220,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+MY14,364,902,84,578,36,136,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+MY14,381,735,94,541,34,48,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+MY14,383,1742,242,1161,56,219,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+MY14,384,2199,263,1377,124,311,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+MY14,808,386,36,278,16,36,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+MY14,827,403,59,254,20,55,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+MY14,828,821,119,432,93,131,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Doesn't Surpass,1
+CC3,262,2627,158,393,1523,486,3,1,0,0,1,4,1,0,0,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+CC5,261,1846,269,291,827,393,0,1,0,3,1,0,1,0,3,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+CC5,324,3910,115,531,1545,1564,0,1,0,3,1,0,1,0,3,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+CC5,326,5149,171,763,1493,2607,0,1,0,3,1,0,1,0,3,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+CC5,329,2511,161,393,753,1119,0,1,0,3,1,0,1,0,3,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+CC5,825,1049,57,64,662,253,0,1,0,3,1,0,1,0,3,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+CCL,261,1846,269,291,827,393,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+CCL,262,2627,158,393,1523,486,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+CCL,324,3910,115,531,1545,1564,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+CCL,326,5149,171,763,1493,2607,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+CCL,329,2511,161,393,753,1119,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+CCL,333,3506,205,452,645,2088,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+CCL,825,1049,57,64,662,253,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+MY14,261,1846,269,291,827,393,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+MY14,262,2627,158,393,1523,486,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+MY14,324,3910,115,531,1545,1564,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+MY14,326,5149,171,763,1493,2607,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+MY14,329,2511,161,393,753,1119,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+MY14,333,3506,205,452,645,2088,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+MY14,825,1049,57,64,662,253,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+MY14,838,237,16,22,77,112,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Doesn't Surpass,Surpasses,Surpasses,2
+2013-mayor-cvr,MINNEAPOLIS W-12 P-08,1880,1231,132,51,391,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2013-mayor-cvr,MINNEAPOLIS W-8 P-02,4510,2620,546,138,951,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2013-mayor-cvr,MINNEAPOLIS W-9 P-02,4998,2217,699,85,1643,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2013-mayor-cvr,MINNEAPOLIS W-9 P-05,1715,489,194,79,818,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2013-mayor-cvr,MINNEAPOLIS W-9 P-06,3998,1931,507,110,1110,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2013-park-at-large-cvr,MINNEAPOLIS W-12 P-08,1880,1231,132,51,391,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2013-park-at-large-cvr,MINNEAPOLIS W-8 P-02,4510,2620,546,138,951,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2013-park-at-large-cvr,MINNEAPOLIS W-9 P-02,4998,2217,699,85,1643,2,3,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2013-park-at-large-cvr,MINNEAPOLIS W-9 P-05,1715,489,194,79,818,2,3,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2013-park-at-large-cvr,MINNEAPOLIS W-9 P-06,3998,1931,507,110,1110,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2013-ward-9-cvr,MINNEAPOLIS W-9 P-02,4998,2217,699,85,1643,1,3,0,1,0,1,4,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2013-ward-9-cvr,MINNEAPOLIS W-9 P-05,1715,489,194,79,818,1,3,0,1,0,1,4,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2013-ward-9-cvr,MINNEAPOLIS W-9 P-06,3998,1931,507,110,1110,1,3,0,1,0,1,4,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2017-mayor-cvr,MINNEAPOLIS W-12 P-08,1880,1231,132,51,391,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2017-mayor-cvr,MINNEAPOLIS W-3 P-10,1938,1045,296,91,354,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2017-mayor-cvr,MINNEAPOLIS W-8 P-02,4510,2620,546,138,951,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2017-mayor-cvr,MINNEAPOLIS W-9 P-02,4998,2217,699,85,1643,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2017-mayor-cvr,MINNEAPOLIS W-9 P-05,1715,489,194,79,818,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2017-mayor-cvr,MINNEAPOLIS W-9 P-06,3998,1931,507,110,1110,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2017-park-at-large-cvr,MINNEAPOLIS W-12 P-08,1880,1231,132,51,391,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2017-park-at-large-cvr,MINNEAPOLIS W-3 P-10,1938,1045,296,91,354,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2017-park-at-large-cvr,MINNEAPOLIS W-8 P-02,4510,2620,546,138,951,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2017-park-at-large-cvr,MINNEAPOLIS W-9 P-02,4998,2217,699,85,1643,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2017-park-at-large-cvr,MINNEAPOLIS W-9 P-05,1715,489,194,79,818,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2017-park-at-large-cvr,MINNEAPOLIS W-9 P-06,3998,1931,507,110,1110,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+CC3,264,2895,716,331,432,1298,4,1,0,0,0,4,1,0,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+CCL,264,2895,716,331,432,1298,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+CCL,375,670,366,102,53,118,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+CCL,834,130,59,16,12,34,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+MY14,264,2895,716,331,432,1298,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+MY14,375,670,366,102,53,118,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+MY14,834,130,59,16,12,34,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Doesn't Surpass,Surpasses,2
+2013-mayor-cvr,MINNEAPOLIS W-6 P-05,2909,439,1356,73,676,1,4,0,0,0,4,27,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+2013-mayor-cvr,MINNEAPOLIS W-9 P-04,4213,664,867,123,1620,1,4,0,0,0,4,27,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+2013-park-at-large-cvr,MINNEAPOLIS W-6 P-05,2909,439,1356,73,676,3,2,0,0,0,3,7,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+2013-park-at-large-cvr,MINNEAPOLIS W-9 P-04,4213,664,867,123,1620,2,3,0,0,0,3,7,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+2013-ward-9-cvr,MINNEAPOLIS W-9 P-04,4213,664,867,123,1620,1,3,0,1,0,1,4,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+2017-mayor-cvr,MINNEAPOLIS W-6 P-05,2909,439,1356,73,676,1,4,0,0,0,2,12,1,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+2017-mayor-cvr,MINNEAPOLIS W-9 P-04,4213,664,867,123,1620,1,4,0,0,0,2,12,1,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+2017-park-at-large-cvr,MINNEAPOLIS W-6 P-05,2909,439,1356,73,676,2,3,0,0,0,2,8,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+2017-park-at-large-cvr,MINNEAPOLIS W-9 P-04,4213,664,867,123,1620,2,3,0,0,0,2,8,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CC3,270,2416,366,1069,224,631,3,1,0,0,1,4,1,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CC3,277,1719,254,925,63,397,4,1,0,0,0,4,1,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CC3,278,1298,204,398,187,444,4,1,0,0,0,4,1,0,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,270,2416,366,1069,224,631,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,277,1719,254,925,63,397,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,278,1298,204,398,187,444,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,311,1225,54,320,137,620,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,312,2691,265,933,365,956,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,313,1588,219,728,134,375,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,337,1301,8,384,83,800,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,338,2606,79,1443,283,688,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,339,1640,28,468,39,1060,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,340,3213,66,1024,81,1924,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,341,1640,49,416,141,988,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,342,3665,119,1320,214,1871,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,343,2148,69,842,100,1066,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,344,1464,35,403,117,866,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,345,1943,45,985,46,831,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,346,1210,167,653,73,248,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,349,1312,125,741,48,356,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,350,2878,78,1405,131,1140,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,351,2960,58,1248,112,1453,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,352,1531,42,659,41,707,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,353,3441,59,1606,62,1556,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,354,2815,84,1373,85,1138,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,362,1337,66,791,25,390,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,370,2036,133,1221,80,496,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,371,1454,15,716,69,607,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,372,4062,104,1058,192,2549,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,373,2339,36,718,48,1480,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,374,2545,77,1363,137,825,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,382,1303,106,811,77,252,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,385,4352,91,1585,132,2337,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,386,3896,73,1093,145,2407,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,387,3062,134,1642,150,1038,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,388,1739,51,586,65,970,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,389,1700,114,854,230,453,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+CCL,390,3378,72,732,66,2448,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,270,2416,366,1069,224,631,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,277,1719,254,925,63,397,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,278,1298,204,398,187,444,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,311,1225,54,320,137,620,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,312,2691,265,933,365,956,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,313,1588,219,728,134,375,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,337,1301,8,384,83,800,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,338,2606,79,1443,283,688,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,339,1640,28,468,39,1060,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,340,3213,66,1024,81,1924,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,341,1640,49,416,141,988,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,342,3665,119,1320,214,1871,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,343,2148,69,842,100,1066,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,344,1464,35,403,117,866,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,345,1943,45,985,46,831,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,346,1210,167,653,73,248,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,349,1312,125,741,48,356,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,350,2878,78,1405,131,1140,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,351,2960,58,1248,112,1453,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,352,1531,42,659,41,707,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,353,3441,59,1606,62,1556,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,354,2815,84,1373,85,1138,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,362,1337,66,791,25,390,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,365,2036,133,1221,80,496,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,366,1454,15,716,69,607,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,367,4062,104,1058,192,2549,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,368,2339,36,718,48,1480,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,369,2545,77,1363,137,825,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,382,1303,106,811,77,252,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,385,4352,91,1585,132,2337,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,386,3896,73,1093,145,2407,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,387,3062,134,1642,150,1038,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,388,1739,51,586,65,970,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,389,1700,114,854,230,453,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,390,3378,72,732,66,2448,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,391,2317,57,763,52,1379,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,392,2857,82,849,93,1749,1,2,1,0,1,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,393,2106,47,827,54,1129,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,394,2255,36,924,52,1169,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,395,1962,28,686,86,1065,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,396,1190,26,577,53,494,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,835,536,57,131,87,244,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,836,266,13,146,27,74,2,3,0,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+MY14,842,195,2,62,5,104,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Doesn't Surpass,Surpasses,2
+2013-mayor-cvr,MINNEAPOLIS W-3 P-08,1881,1369,67,337,56,1,4,0,0,0,4,27,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-3 P-08,1881,1369,67,337,56,1,4,0,0,0,3,7,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-3 P-08,1881,1369,67,337,56,1,4,0,0,0,2,12,1,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-3 P-08,1881,1369,67,337,56,2,3,0,0,0,2,8,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CC3,242,1538,443,144,748,124,3,1,0,0,1,4,1,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CC5,317,1369,529,222,421,116,0,1,0,3,1,0,1,0,3,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,101,1795,1129,151,369,76,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,103,1680,1061,74,349,100,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,132,1926,976,214,437,188,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,135,872,408,132,174,114,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,242,1538,443,144,748,124,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,283,540,289,75,94,58,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,287,795,196,111,391,64,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,293,2268,907,369,621,215,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,294,833,386,121,200,64,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,297,1192,422,198,376,142,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,306,589,276,89,155,25,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,307,1050,429,163,228,168,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,317,1369,529,222,421,116,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+CCL,355,1330,750,216,231,69,2,2,0,1,0,2,2,0,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E03,202,3003,1292,190,1148,273,1,4,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E03,203,3440,1702,180,1160,245,0,5,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E03,403,1839,982,164,458,165,1,4,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E03,803,4107,2645,295,689,292,1,4,0,0,0,3,16,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E05,202,3003,1292,190,1148,273,1,4,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E05,203,3440,1702,180,1160,245,0,5,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E05,403,1839,982,164,458,165,2,3,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E05,803,4107,2645,295,689,292,1,4,0,0,0,4,14,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E07,202,3003,1292,190,1148,273,1,4,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E07,203,3440,1702,180,1160,245,2,3,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E07,403,1839,982,164,458,165,2,3,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E07,803,4107,2645,295,689,292,1,4,0,0,0,4,12,0,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E09,202,3003,1292,190,1148,273,1,2,1,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E09,203,3440,1702,180,1160,245,1,2,1,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E09,403,1839,982,164,458,165,1,2,1,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E09,803,4107,2645,295,689,292,2,1,1,0,1,4,15,1,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E11,202,3003,1292,190,1148,273,1,3,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E11,203,3440,1702,180,1160,245,2,2,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E11,403,1839,982,164,458,165,3,1,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E11,803,4107,2645,295,689,292,1,3,1,0,0,3,13,1,1,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E13,101,3218,2028,185,544,355,1,3,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E13,202,3250,1324,210,1201,349,2,1,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E13,203,3075,1547,121,952,304,1,3,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E13,403,3101,1407,210,1053,314,1,2,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E13,503,3225,1948,157,826,167,0,2,2,1,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E13,702,3263,2228,147,562,197,1,3,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E13,703,3302,1907,192,770,220,1,2,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E13,803,3184,1864,249,652,217,1,2,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E15,101,3218,2028,185,544,355,1,3,1,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E15,202,3250,1324,210,1201,349,1,1,3,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E15,203,3075,1547,121,952,304,1,2,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E15,403,3101,1407,210,1053,314,1,2,1,1,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E15,503,3225,1948,157,826,167,1,2,1,1,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E15,702,3263,2228,147,562,197,1,2,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E15,703,3302,1907,192,770,220,1,1,3,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E15,803,3184,1864,249,652,217,1,2,2,0,0,3,15,4,2,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E17,101,3218,2028,185,544,355,1,3,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E17,202,3250,1324,210,1201,349,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E17,203,3075,1547,121,952,304,2,1,2,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E17,403,3101,1407,210,1053,314,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E17,503,3225,1948,157,826,167,2,2,1,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E17,702,3263,2228,147,562,197,1,2,2,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E17,703,3302,1907,192,770,220,0,3,2,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+E17,803,3184,1864,249,652,217,1,2,2,0,0,5,17,4,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,101,1795,1129,151,369,76,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,103,1680,1061,74,349,100,1,4,0,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,132,1926,976,214,437,188,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,135,872,408,132,174,114,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,242,1538,443,144,748,124,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,283,540,289,75,94,58,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,287,795,196,111,391,64,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,293,2268,907,369,621,215,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,294,833,386,121,200,64,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,297,1192,422,198,376,142,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,306,589,276,89,155,25,1,3,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,307,1050,429,163,228,168,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,317,1369,529,222,421,116,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,355,1330,750,216,231,69,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+MY14,848,39,18,4,10,6,0,4,1,0,0,6,6,3,0,Doesn't Surpass,Surpasses,Surpasses,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-5 P-03,3224,342,1787,582,256,1,4,0,0,0,4,27,0,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-5 P-08,4567,738,2198,861,404,2,3,0,0,0,4,27,0,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-5 P-03,3224,342,1787,582,256,3,2,0,0,0,3,7,0,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-5 P-08,4567,738,2198,861,404,2,3,0,0,0,3,7,0,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+2013-ward-5-cvr,MINNEAPOLIS W-5 P-03,3224,342,1787,582,256,2,1,1,0,1,2,1,1,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+2013-ward-5-cvr,MINNEAPOLIS W-5 P-08,4567,738,2198,861,404,2,1,1,0,1,2,1,1,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-5 P-03,3224,342,1787,582,256,1,4,0,0,0,2,12,1,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-5 P-08,4567,738,2198,861,404,1,4,0,0,0,2,12,1,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-5 P-03,3224,342,1787,582,256,2,3,0,0,0,2,8,0,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-5 P-08,4567,738,2198,861,404,2,3,0,0,0,2,8,0,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+2017-ward-5-cvr,MINNEAPOLIS W-5 P-03,3224,342,1787,582,256,3,0,1,0,1,3,0,1,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+2017-ward-5-cvr,MINNEAPOLIS W-5 P-08,4567,738,2198,861,404,3,0,1,0,1,3,0,1,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+CC3,280,2420,169,1469,594,99,4,1,0,0,0,4,1,0,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+CC5,830,177,27,68,56,17,0,1,0,3,1,0,1,0,3,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+CCL,280,2420,169,1469,594,99,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+CCL,291,2207,360,673,723,346,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+CCL,299,1913,233,666,556,316,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+CCL,308,961,128,215,433,147,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+CCL,315,2330,321,480,1160,274,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+CCL,319,1061,156,282,437,146,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+CCL,830,177,27,68,56,17,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+E03,1101,3009,276,1332,812,420,2,3,0,0,0,3,16,0,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+E05,1101,3009,276,1332,812,420,3,2,0,0,0,4,14,0,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+E07,1101,3009,276,1332,812,420,2,3,0,0,0,4,12,0,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+E09,1101,3009,276,1332,812,420,2,2,0,0,1,4,15,1,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+E11,1101,3009,276,1332,812,420,2,3,0,0,0,3,13,1,1,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+MY14,280,2420,169,1469,594,99,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+MY14,291,2207,360,673,723,346,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+MY14,299,1913,233,666,556,316,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+MY14,308,961,128,215,433,147,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+MY14,315,2330,321,480,1160,274,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+MY14,319,1061,156,282,437,146,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+MY14,830,177,27,68,56,17,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-10 P-09,4446,2244,985,235,730,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-11 P-03,3887,2111,952,117,455,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-3 P-06,4540,2609,1086,112,497,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-4 P-01,3918,1672,953,609,433,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-4 P-02,5116,2436,1426,512,378,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-4 P-03,3132,793,1323,478,296,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-4 P-04,3977,2452,795,300,193,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-4 P-05,5344,1614,2388,579,378,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-4 P-06,3763,1271,1577,362,260,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-4 P-07,2630,1762,501,81,129,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-4 P-08,4004,1557,1462,381,323,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-5 P-01,4095,743,2255,456,321,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-5 P-04,2427,414,1460,221,148,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-5 P-05,2607,602,1375,291,143,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-5 P-6C,1960,498,952,157,202,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-6 P-01,1160,609,415,34,53,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-6 P-02,3544,1307,1795,166,107,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-6 P-03,5220,951,3373,580,166,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-6 P-04,4083,2166,1448,107,152,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-6 P-09,2725,1645,681,82,163,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-7 P-06,5378,2693,1721,452,242,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-8 P-04,2467,1062,770,101,394,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-mayor-cvr,MINNEAPOLIS W-8 P-05,3357,2000,724,91,326,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-10 P-09,4446,2244,985,235,730,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-11 P-03,3887,2111,952,117,455,1,4,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-3 P-06,4540,2609,1086,112,497,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-4 P-01,3918,1672,953,609,433,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-4 P-02,5116,2436,1426,512,378,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-4 P-03,3132,793,1323,478,296,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-4 P-04,3977,2452,795,300,193,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-4 P-05,5344,1614,2388,579,378,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-4 P-06,3763,1271,1577,362,260,1,4,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-4 P-07,2630,1762,501,81,129,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-4 P-08,4004,1557,1462,381,323,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-5 P-01,4095,743,2255,456,321,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-5 P-04,2427,414,1460,221,148,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-5 P-05,2607,602,1375,291,143,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-5 P-6C,1960,498,952,157,202,1,4,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-6 P-01,1160,609,415,34,53,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-6 P-02,3544,1307,1795,166,107,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-6 P-03,5220,951,3373,580,166,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-6 P-04,4083,2166,1448,107,152,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-6 P-09,2725,1645,681,82,163,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-7 P-06,5378,2693,1721,452,242,1,4,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-8 P-04,2467,1062,770,101,394,1,4,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-park-at-large-cvr,MINNEAPOLIS W-8 P-05,3357,2000,724,91,326,1,4,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-ward-5-cvr,MINNEAPOLIS W-5 P-01,4095,743,2255,456,321,2,1,1,0,1,2,1,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-ward-5-cvr,MINNEAPOLIS W-5 P-04,2427,414,1460,221,148,2,1,1,0,1,2,1,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-ward-5-cvr,MINNEAPOLIS W-5 P-05,2607,602,1375,291,143,2,1,1,0,1,2,1,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2013-ward-5-cvr,MINNEAPOLIS W-5 P-6C,1960,498,952,157,202,2,1,1,0,1,2,1,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-10 P-09,4446,2244,985,235,730,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-11 P-03,3887,2111,952,117,455,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-3 P-06,4540,2609,1086,112,497,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-3 P-12,790,471,202,57,26,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-4 P-01,3918,1672,953,609,433,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-4 P-02,5116,2436,1426,512,378,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-4 P-03,3132,793,1323,478,296,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-4 P-04,3977,2452,795,300,193,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-4 P-05,5344,1614,2388,579,378,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-4 P-06,3763,1271,1577,362,260,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-4 P-07,2630,1762,501,81,129,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-4 P-08,4004,1557,1462,381,323,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-5 P-01,4095,743,2255,456,321,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-5 P-04,2427,414,1460,221,148,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-5 P-05,2607,602,1375,291,143,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-5 P-6C,1960,498,952,157,202,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-6 P-01,1160,609,415,34,53,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-6 P-02,3544,1307,1795,166,107,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-6 P-03,5220,951,3373,580,166,1,3,1,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-6 P-04,4083,2166,1448,107,152,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-6 P-09,2725,1645,681,82,163,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-7 P-06,5378,2693,1721,452,242,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-8 P-04,2467,1062,770,101,394,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-mayor-cvr,MINNEAPOLIS W-8 P-05,3357,2000,724,91,326,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-10 P-09,4446,2244,985,235,730,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-11 P-03,3887,2111,952,117,455,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-3 P-06,4540,2609,1086,112,497,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-3 P-12,790,471,202,57,26,1,4,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-4 P-01,3918,1672,953,609,433,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-4 P-02,5116,2436,1426,512,378,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-4 P-03,3132,793,1323,478,296,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-4 P-04,3977,2452,795,300,193,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-4 P-05,5344,1614,2388,579,378,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-4 P-06,3763,1271,1577,362,260,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-4 P-07,2630,1762,501,81,129,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-4 P-08,4004,1557,1462,381,323,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-5 P-01,4095,743,2255,456,321,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-5 P-04,2427,414,1460,221,148,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-5 P-05,2607,602,1375,291,143,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-5 P-6C,1960,498,952,157,202,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-6 P-01,1160,609,415,34,53,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-6 P-02,3544,1307,1795,166,107,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-6 P-03,5220,951,3373,580,166,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-6 P-04,4083,2166,1448,107,152,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-6 P-09,2725,1645,681,82,163,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-7 P-06,5378,2693,1721,452,242,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-8 P-04,2467,1062,770,101,394,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-park-at-large-cvr,MINNEAPOLIS W-8 P-05,3357,2000,724,91,326,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-ward-4-cvr,MINNEAPOLIS W-4 P-01,3918,1672,953,609,433,2,2,0,0,1,2,2,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-ward-4-cvr,MINNEAPOLIS W-4 P-02,5116,2436,1426,512,378,2,2,0,0,1,2,2,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-ward-4-cvr,MINNEAPOLIS W-4 P-03,3132,793,1323,478,296,2,2,0,0,1,2,2,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-ward-4-cvr,MINNEAPOLIS W-4 P-04,3977,2452,795,300,193,2,2,0,0,1,2,2,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-ward-4-cvr,MINNEAPOLIS W-4 P-05,5344,1614,2388,579,378,2,2,0,0,1,2,2,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-ward-4-cvr,MINNEAPOLIS W-4 P-06,3763,1271,1577,362,260,2,2,0,0,1,2,2,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-ward-4-cvr,MINNEAPOLIS W-4 P-07,2630,1762,501,81,129,2,2,0,0,1,2,2,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-ward-4-cvr,MINNEAPOLIS W-4 P-08,4004,1557,1462,381,323,2,2,0,0,1,2,2,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-ward-5-cvr,MINNEAPOLIS W-5 P-01,4095,743,2255,456,321,3,0,1,0,1,3,0,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-ward-5-cvr,MINNEAPOLIS W-5 P-04,2427,414,1460,221,148,3,0,1,0,1,3,0,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-ward-5-cvr,MINNEAPOLIS W-5 P-05,2607,602,1375,291,143,3,0,1,0,1,3,0,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+2017-ward-5-cvr,MINNEAPOLIS W-5 P-6C,1960,498,952,157,202,3,0,1,0,1,3,0,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CC3,238,1047,303,495,37,145,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CC3,240,2292,417,1207,203,340,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CC3,241,1133,493,224,187,131,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CC3,243,1185,514,287,111,154,4,1,0,0,0,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CC3,244,1502,635,426,164,182,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CC3,246,837,291,288,93,119,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CC3,247,1133,444,362,172,97,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CC3,248,2512,805,1049,282,220,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CC3,250,1527,662,391,221,152,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CC3,269,1843,535,791,243,164,4,1,0,0,0,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CC3,820,671,134,364,86,50,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,117,851,467,180,53,108,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,121,1213,634,225,140,139,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,122,1032,493,233,80,138,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,123,884,311,289,127,110,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,134,1434,605,350,224,154,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,136,781,460,150,59,69,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,138,790,424,140,103,86,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,139,1678,898,284,203,195,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,140,1488,733,303,219,141,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,147,1053,595,227,90,72,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,227,1564,371,827,100,178,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,228,1242,404,507,136,106,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,230,1110,355,506,48,123,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,231,1150,338,481,80,182,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,232,1100,275,608,43,106,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,233,889,300,403,34,111,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,234,1867,535,917,131,201,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,235,2099,1113,482,136,215,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,236,1419,665,451,72,125,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,237,1573,673,615,80,126,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,238,1047,303,495,37,145,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,239,2339,549,1146,178,321,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,240,2292,417,1207,203,340,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,241,1133,493,224,187,131,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,243,1185,514,287,111,154,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,244,1502,635,426,164,182,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,246,837,291,288,93,119,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,247,1133,444,362,172,97,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,248,2512,805,1049,282,220,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,250,1527,662,391,221,152,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,251,1724,978,312,170,149,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,257,1437,756,253,177,157,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,258,1615,551,428,269,255,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,269,1843,535,791,243,164,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,301,1708,646,515,166,271,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,302,1244,482,376,169,137,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,347,1239,366,568,104,138,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,348,1139,280,588,92,116,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,358,1871,464,753,305,227,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,363,1901,651,687,183,252,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,376,877,203,515,43,68,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,377,574,166,307,54,24,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,378,1022,348,496,60,74,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,379,835,168,438,86,102,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,380,1400,409,726,87,102,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,820,671,134,364,86,50,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CCL,829,826,224,346,136,76,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E03,303,3527,1630,768,356,527,2,3,0,0,0,3,16,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E03,401,3208,1555,927,228,266,2,3,0,0,0,3,16,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E03,502,2965,1712,605,286,195,2,3,0,0,0,3,16,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E03,1003,3317,1551,1144,293,166,2,3,0,0,0,3,16,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E05,303,3527,1630,768,356,527,2,3,0,0,0,4,14,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E05,401,3208,1555,927,228,266,3,2,0,0,0,4,14,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E05,502,2965,1712,605,286,195,2,3,0,0,0,4,14,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E05,1003,3317,1551,1144,293,166,2,3,0,0,0,4,14,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E07,303,3527,1630,768,356,527,2,3,0,0,0,4,12,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E07,401,3208,1555,927,228,266,3,2,0,0,0,4,12,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E07,502,2965,1712,605,286,195,3,2,0,0,0,4,12,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E07,1003,3317,1551,1144,293,166,2,3,0,0,0,4,12,0,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E09,303,3527,1630,768,356,527,2,1,0,0,2,4,15,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E09,401,3208,1555,927,228,266,2,2,0,0,1,4,15,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E09,502,2965,1712,605,286,195,2,2,0,0,1,4,15,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E09,1003,3317,1551,1144,293,166,2,2,0,0,1,4,15,1,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E11,303,3527,1630,768,356,527,3,1,1,0,0,3,13,1,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E11,401,3208,1555,927,228,266,3,1,1,0,0,3,13,1,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E11,502,2965,1712,605,286,195,2,2,1,0,0,3,13,1,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E11,1003,3317,1551,1144,293,166,2,2,1,0,0,3,13,1,1,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E13,201,3156,954,1192,340,495,2,1,1,1,0,3,15,4,2,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E13,304,3243,1763,541,431,313,1,1,2,0,1,3,15,4,2,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E13,401,3181,1770,723,276,246,2,0,2,1,0,3,15,4,2,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E13,502,3225,1916,646,301,206,1,1,2,1,0,3,15,4,2,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E13,1003,3113,1420,1014,359,164,1,3,1,0,0,3,15,4,2,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E15,201,3156,954,1192,340,495,2,1,1,1,0,3,15,4,2,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E15,304,3243,1763,541,431,313,1,2,2,0,0,3,15,4,2,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E15,401,3181,1770,723,276,246,1,1,2,1,0,3,15,4,2,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E15,502,3225,1916,646,301,206,1,2,1,1,0,3,15,4,2,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E15,1003,3113,1420,1014,359,164,1,2,2,0,0,3,15,4,2,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E17,201,3156,954,1192,340,495,3,1,1,0,0,5,17,4,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E17,304,3243,1763,541,431,313,2,2,1,0,0,5,17,4,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E17,401,3181,1770,723,276,246,3,1,1,0,0,5,17,4,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E17,502,3225,1916,646,301,206,3,1,1,0,0,5,17,4,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+E17,1003,3113,1420,1014,359,164,1,3,1,0,0,5,17,4,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,117,851,467,180,53,108,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,121,1213,634,225,140,139,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,122,1032,493,233,80,138,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,123,884,311,289,127,110,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,134,1434,605,350,224,154,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,136,781,460,150,59,69,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,138,790,424,140,103,86,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,139,1678,898,284,203,195,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,140,1488,733,303,219,141,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,147,1053,595,227,90,72,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,227,1564,371,827,100,178,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,228,1242,404,507,136,106,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,230,1110,355,506,48,123,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,231,1150,338,481,80,182,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,232,1100,275,608,43,106,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,233,889,300,403,34,111,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,234,1867,535,917,131,201,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,235,2099,1113,482,136,215,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,236,1419,665,451,72,125,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,237,1573,673,615,80,126,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,238,1047,303,495,37,145,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,239,2339,549,1146,178,321,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,240,2292,417,1207,203,340,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,241,1133,493,224,187,131,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,243,1185,514,287,111,154,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,244,1502,635,426,164,182,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,246,837,291,288,93,119,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,247,1133,444,362,172,97,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,248,2512,805,1049,282,220,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,250,1527,662,391,221,152,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,251,1724,978,312,170,149,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,257,1437,756,253,177,157,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,258,1615,551,428,269,255,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,269,1843,535,791,243,164,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,301,1708,646,515,166,271,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,302,1244,482,376,169,137,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,347,1239,366,568,104,138,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,348,1139,280,588,92,116,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,358,1871,464,753,305,227,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,363,1901,651,687,183,252,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,376,877,203,515,43,68,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,377,574,166,307,54,24,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,378,1022,348,496,60,74,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,379,835,168,438,86,102,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,380,1400,409,726,87,102,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,820,671,134,364,86,50,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+MY14,829,826,224,346,136,76,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Doesn't Surpass,2
+CC3,263,3361,480,838,1199,692,3,1,0,0,1,4,1,0,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CC5,321,3310,195,563,1676,774,0,1,0,3,1,0,1,0,3,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CC5,322,2962,410,972,904,565,0,1,0,3,1,0,1,0,3,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CC5,325,2171,128,425,1127,416,0,1,0,3,1,0,1,0,3,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CC5,328,1602,92,356,642,455,0,1,0,3,1,0,1,0,3,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CC5,330,1689,164,401,366,705,0,1,0,3,1,0,1,0,3,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,263,3361,480,838,1199,692,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,288,1691,190,397,592,440,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,289,1777,174,419,510,599,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,290,1447,121,399,412,442,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,310,2842,215,750,782,968,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,320,3058,229,520,1672,550,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,321,3310,195,563,1676,774,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,322,2962,410,972,904,565,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,325,2171,128,425,1127,416,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,328,1602,92,356,642,455,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,330,1689,164,401,366,705,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,331,3052,218,561,636,1527,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,332,2036,187,587,376,810,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,334,2223,208,387,470,1114,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+CCL,824,165,15,30,77,35,2,2,0,1,0,2,2,0,1,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,263,3361,480,838,1199,692,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,288,1691,190,397,592,440,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,289,1777,174,419,510,599,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,290,1447,121,399,412,442,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,310,2842,215,750,782,968,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,320,3058,229,520,1672,550,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,321,3310,195,563,1676,774,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,322,2962,410,972,904,565,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,325,2171,128,425,1127,416,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,328,1602,92,356,642,455,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,330,1689,164,401,366,705,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,331,3052,218,561,636,1527,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,332,2036,187,587,376,810,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,334,2223,208,387,470,1114,1,3,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,824,165,15,30,77,35,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+MY14,837,692,50,143,282,169,0,4,1,0,0,6,6,3,0,Surpasses,Doesn't Surpass,Surpasses,Surpasses,3
+2013-mayor-cvr,MINNEAPOLIS W-1 P-09,4578,2312,897,82,978,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-mayor-cvr,MINNEAPOLIS W-11 P-09,2665,1234,551,76,650,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-mayor-cvr,MINNEAPOLIS W-6 P-06,3628,985,1382,63,873,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-mayor-cvr,MINNEAPOLIS W-6 P-07,1947,453,948,30,375,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-mayor-cvr,MINNEAPOLIS W-6 P-08,2780,742,1077,95,708,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-mayor-cvr,MINNEAPOLIS W-8 P-01,2909,879,989,46,840,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-mayor-cvr,MINNEAPOLIS W-8 P-03,3428,738,1038,142,1328,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-mayor-cvr,MINNEAPOLIS W-9 P-01,3343,664,821,104,1530,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-mayor-cvr,MINNEAPOLIS W-9 P-03,4782,1085,1183,123,1949,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-mayor-cvr,MINNEAPOLIS W-9 P-08,541,124,204,11,144,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-park-at-large-cvr,MINNEAPOLIS W-1 P-09,4578,2312,897,82,978,1,4,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-park-at-large-cvr,MINNEAPOLIS W-11 P-09,2665,1234,551,76,650,1,4,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-park-at-large-cvr,MINNEAPOLIS W-6 P-06,3628,985,1382,63,873,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-park-at-large-cvr,MINNEAPOLIS W-6 P-07,1947,453,948,30,375,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-park-at-large-cvr,MINNEAPOLIS W-6 P-08,2780,742,1077,95,708,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-park-at-large-cvr,MINNEAPOLIS W-8 P-01,2909,879,989,46,840,3,2,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-park-at-large-cvr,MINNEAPOLIS W-8 P-03,3428,738,1038,142,1328,3,2,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-park-at-large-cvr,MINNEAPOLIS W-9 P-01,3343,664,821,104,1530,3,2,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-park-at-large-cvr,MINNEAPOLIS W-9 P-03,4782,1085,1183,123,1949,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-park-at-large-cvr,MINNEAPOLIS W-9 P-08,541,124,204,11,144,3,2,0,0,0,3,7,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-ward-9-cvr,MINNEAPOLIS W-9 P-01,3343,664,821,104,1530,1,3,0,1,0,1,4,0,1,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-ward-9-cvr,MINNEAPOLIS W-9 P-03,4782,1085,1183,123,1949,1,3,0,1,0,1,4,0,1,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-ward-9-cvr,MINNEAPOLIS W-9 P-08,541,124,204,11,144,1,3,0,1,0,1,4,0,1,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-mayor-cvr,MINNEAPOLIS W-1 P-09,4578,2312,897,82,978,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-mayor-cvr,MINNEAPOLIS W-10 P-10,4237,1398,987,113,1524,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-mayor-cvr,MINNEAPOLIS W-11 P-09,2665,1234,551,76,650,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-mayor-cvr,MINNEAPOLIS W-6 P-06,3628,985,1382,63,873,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-mayor-cvr,MINNEAPOLIS W-6 P-07,1947,453,948,30,375,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-mayor-cvr,MINNEAPOLIS W-6 P-08,2780,742,1077,95,708,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-mayor-cvr,MINNEAPOLIS W-8 P-01,2909,879,989,46,840,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-mayor-cvr,MINNEAPOLIS W-8 P-03,3428,738,1038,142,1328,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-mayor-cvr,MINNEAPOLIS W-9 P-01,3343,664,821,104,1530,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-mayor-cvr,MINNEAPOLIS W-9 P-03,4782,1085,1183,123,1949,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-mayor-cvr,MINNEAPOLIS W-9 P-08,541,124,204,11,144,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-mayor-cvr,MINNEAPOLIS W-9 P-09,3035,681,750,84,1372,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-park-at-large-cvr,MINNEAPOLIS W-1 P-09,4578,2312,897,82,978,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-park-at-large-cvr,MINNEAPOLIS W-10 P-10,4237,1398,987,113,1524,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-park-at-large-cvr,MINNEAPOLIS W-11 P-09,2665,1234,551,76,650,1,4,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-park-at-large-cvr,MINNEAPOLIS W-6 P-06,3628,985,1382,63,873,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-park-at-large-cvr,MINNEAPOLIS W-6 P-07,1947,453,948,30,375,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-park-at-large-cvr,MINNEAPOLIS W-6 P-08,2780,742,1077,95,708,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-park-at-large-cvr,MINNEAPOLIS W-8 P-01,2909,879,989,46,840,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-park-at-large-cvr,MINNEAPOLIS W-8 P-03,3428,738,1038,142,1328,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-park-at-large-cvr,MINNEAPOLIS W-9 P-01,3343,664,821,104,1530,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-park-at-large-cvr,MINNEAPOLIS W-9 P-03,4782,1085,1183,123,1949,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-park-at-large-cvr,MINNEAPOLIS W-9 P-08,541,124,204,11,144,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2017-park-at-large-cvr,MINNEAPOLIS W-9 P-09,3035,681,750,84,1372,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+CC3,266,2227,566,859,219,485,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+CC3,267,2288,409,1082,226,466,4,1,0,0,0,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+CC3,271,958,174,462,99,167,4,1,0,0,0,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+CC3,276,1181,231,547,38,286,4,1,0,0,0,4,1,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+CCL,266,2227,566,859,219,485,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+CCL,267,2288,409,1082,226,466,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+CCL,271,958,174,462,99,167,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+CCL,276,1181,231,547,38,286,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+CCL,300,1761,434,707,148,355,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+CCL,360,1701,522,662,145,284,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+CCL,361,1443,277,747,70,248,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+E03,201,3173,834,1294,209,590,2,3,0,0,0,3,16,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+E05,201,3173,834,1294,209,590,2,3,0,0,0,4,14,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+E07,201,3173,834,1294,209,590,3,2,0,0,0,4,12,0,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+E09,201,3173,834,1294,209,590,2,2,0,0,1,4,15,1,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+E11,201,3173,834,1294,209,590,3,2,0,0,0,3,13,1,1,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+MY14,266,2227,566,859,219,485,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+MY14,267,2288,409,1082,226,466,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+MY14,271,958,174,462,99,167,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+MY14,276,1181,231,547,38,286,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+MY14,300,1761,434,707,148,355,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+MY14,360,1701,522,662,145,284,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+MY14,361,1443,277,747,70,248,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+MY14,809,86,34,19,7,17,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Doesn't Surpass,Surpasses,3
+2013-mayor-cvr,MINNEAPOLIS W-5 P-02,4837,935,2318,906,387,1,4,0,0,0,4,27,0,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+2013-park-at-large-cvr,MINNEAPOLIS W-5 P-02,4837,935,2318,906,387,2,3,0,0,0,3,7,0,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+2013-ward-5-cvr,MINNEAPOLIS W-5 P-02,4837,935,2318,906,387,2,1,1,0,1,2,1,1,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+2017-mayor-cvr,MINNEAPOLIS W-5 P-02,4837,935,2318,906,387,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+2017-mayor-cvr,MINNEAPOLIS W-5 P-09,2960,798,1218,524,268,1,4,0,0,0,2,12,1,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+2017-park-at-large-cvr,MINNEAPOLIS W-5 P-02,4837,935,2318,906,387,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+2017-park-at-large-cvr,MINNEAPOLIS W-5 P-09,2960,798,1218,524,268,2,3,0,0,0,2,8,0,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+2017-ward-5-cvr,MINNEAPOLIS W-5 P-02,4837,935,2318,906,387,3,0,1,0,1,3,0,1,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+2017-ward-5-cvr,MINNEAPOLIS W-5 P-09,2960,798,1218,524,268,3,0,1,0,1,3,0,1,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC3,245,2032,581,382,792,167,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC3,252,1590,599,340,411,137,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC3,253,1620,559,315,484,157,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC3,254,884,208,149,397,90,4,1,0,0,0,4,1,0,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC3,272,1468,384,466,414,126,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC3,274,1691,291,647,436,235,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC3,282,2251,408,682,762,321,4,1,0,0,0,4,1,0,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC3,817,193,85,47,35,13,4,1,0,0,0,4,1,0,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC3,821,193,43,48,72,25,3,1,0,0,1,4,1,0,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC5,260,2089,389,397,860,337,0,1,0,3,1,0,1,0,3,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC5,285,710,144,235,226,76,0,1,0,3,1,0,1,0,3,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC5,318,1915,322,407,822,280,0,1,0,3,1,0,1,0,3,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC5,323,1365,310,382,383,220,0,1,0,3,1,0,1,0,3,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,131,698,287,120,183,74,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,229,1233,528,292,234,128,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,245,2032,581,382,792,167,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,252,1590,599,340,411,137,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,253,1620,559,315,484,157,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,254,884,208,149,397,90,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,256,1992,916,379,370,208,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,259,530,219,112,129,45,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,260,2089,389,397,860,337,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,272,1468,384,466,414,126,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,274,1691,291,647,436,235,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,282,2251,408,682,762,321,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,285,710,144,235,226,76,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,298,1373,431,231,484,160,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,303,1083,384,199,262,158,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,314,980,223,219,335,134,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,316,977,300,257,236,116,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,318,1915,322,407,822,280,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,323,1365,310,382,383,220,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,356,429,143,130,91,38,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,357,1421,532,343,392,79,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,359,887,253,379,167,41,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,814,86,26,32,15,11,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,817,193,85,47,35,13,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,821,193,43,48,72,25,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CCL,839,28,9,5,11,3,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+E13,1101,3745,679,1545,961,403,2,0,2,1,0,3,15,4,2,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+E15,1101,3745,679,1545,961,403,1,2,1,1,0,3,15,4,2,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+E17,1101,3745,679,1545,961,403,2,1,2,0,0,5,17,4,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,131,698,287,120,183,74,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,229,1233,528,292,234,128,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,245,2032,581,382,792,167,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,252,1590,599,340,411,137,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,253,1620,559,315,484,157,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,254,884,208,149,397,90,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,256,1992,916,379,370,208,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,259,530,219,112,129,45,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,260,2089,389,397,860,337,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,272,1468,384,466,414,126,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,274,1691,291,647,436,235,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,282,2251,408,682,762,321,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,285,710,144,235,226,76,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,298,1373,431,231,484,160,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,303,1083,384,199,262,158,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,314,980,223,219,335,134,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,316,977,300,257,236,116,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,318,1915,322,407,822,280,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,323,1365,310,382,383,220,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,356,429,143,130,91,38,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,357,1421,532,343,392,79,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,359,887,253,379,167,41,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,814,86,26,32,15,11,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,817,193,85,47,35,13,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,821,193,43,48,72,25,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,839,28,9,5,11,3,2,2,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+MY14,840,10,4,2,2,0,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Doesn't Surpass,3
+CC3,273,1709,407,466,436,325,4,1,0,0,0,4,1,0,0,Surpasses,Surpasses,Surpasses,Surpasses,4
+CC5,833,223,44,41,48,68,0,1,0,3,1,0,1,0,3,Surpasses,Surpasses,Surpasses,Surpasses,4
+CCL,273,1709,407,466,436,325,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Surpasses,4
+CCL,309,2088,360,529,654,431,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Surpasses,4
+CCL,813,112,21,31,19,34,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Surpasses,4
+CCL,833,223,44,41,48,68,2,2,0,1,0,2,2,0,1,Surpasses,Surpasses,Surpasses,Surpasses,4
+MY14,273,1709,407,466,436,325,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Surpasses,4
+MY14,309,2088,360,529,654,431,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Surpasses,4
+MY14,813,112,21,31,19,34,1,3,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Surpasses,4
+MY14,833,223,44,41,48,68,0,4,1,0,0,6,6,3,0,Surpasses,Surpasses,Surpasses,Surpasses,4
